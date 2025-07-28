@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Learn Acrobat - Create and Convert_1.pdf",
+            "Learn Acrobat - Create and Convert_2.pdf",
+            "Learn Acrobat - Edit_1.pdf",
+            "Learn Acrobat - Edit_2.pdf",
+            "Learn Acrobat - Export_1.pdf",
+            "Learn Acrobat - Export_2.pdf",
+            "Learn Acrobat - Fill and Sign.pdf",
+            "Learn Acrobat - Generative AI_1.pdf",
+            "Learn Acrobat - Generative AI_2.pdf",
+            "Learn Acrobat - Request e-signatures_1.pdf",
+            "Learn Acrobat - Request e-signatures_2.pdf",
+            "Learn Acrobat - Share_1.pdf",
+            "Learn Acrobat - Share_2.pdf",
+            "Test Your Acrobat Exporting Skills.pdf",
+            "The Ultimate PDF Sharing Checklist.pdf"
+        ],
+        "persona": "HR professional",
+        "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+        "processing_timestamp": "2025-07-28T23:13:09.206509"
+    },
+    "extracted_sections": [
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Change flat forms to fillable (Acrobat Pro)",
+            "importance_rank": 1,
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Fill in interactive forms",
+            "importance_rank": 2,
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Create a PDF and send it for review",
+            "importance_rank": 3,
+            "page_number": 19
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "section_title": "Create PDFs by printing to file",
+            "importance_rank": 4,
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "Manage your bulk sends",
+            "importance_rank": 5,
+            "page_number": 17
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Create a blank PDF",
+            "importance_rank": 6,
+            "page_number": 11
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "refined_text": "Acrobat and Acrobat Reader users can use the Fill Sign tool to fill in flat forms . The tools are enabled for the current form only . When you create a different form, redo this task to enable Acrobat reader users to use the tools . See Create a form from an existing document. See Create an interactive form to create an interactive",
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "refined_text": "An interactive form contains fields that you can select or fill in . If necessary, select either the Hand Tool or the Select Tool from the context menu of the page . The Hand tool changes to an I-beam when you can type text into the form field . When finished, submit the form to either send the data to a server or create an email",
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "Create a PDF and send it for review. Follow the directions in the wizard that appears in Start an email-based review . Click the Convert To Adobe PDF And Send For Review button on the Acrobat PDFMaker toolbar . Use the Adobe PDF Convert to Adobe PDF and Send for Review button to create a PDF . If you want to send a",
+            "page_number": 19
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "refined_text": "The current Distiller preference settings and Adobe PDF settings are used to convert the file . If youre working with nonstandard page sizes, create a custom page size . For Microsoft Office documents, the Adobe PDF printer does not include some of the features that are available from PDFMaker. For example, you cannot create bookmarks and hyperlinks using",
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "Manage your bulk sends Bulk sends can be managed from your Documents tab . Single-click the Bulk Send you to want to access, opening the context menu on the right side of the window . The current status of the whole Bulk Send The Message provided in the initial email Any CCd parties (listed by email value) Actions menu (blue square)",
+            "page_number": 17
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "Acrobat creates a blank page PDF, rather than beginning with a file, a clipboard image, or scanning . For longer, more complex, or heavily formatted documents, it's better to create the source document in an application that offers more layout and formatting options . Do any of the following In Acrobat, select Create from the global bar.",
+            "page_number": 11
+        }
+    ]
+}
